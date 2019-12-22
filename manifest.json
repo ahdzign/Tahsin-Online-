@@ -1,0 +1,38 @@
+{
+  "name": "Tahsin Online",
+  "short_name": "Tahsin Online",
+  "start_url": "https://www.tahsin.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas seputar ilmu tajwid dan Terjemah Al Quran per kata, Sejarah Sahabat Nabi SAW,dan informasi menarik lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-KW_38tT8OvY/Xf8wy3qkX9I/AAAAAAAAEPg/kGi5hdkPD5sVVyhQXoGz2TI-bOzh4bvpQCLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-j62cNpHhVX4/Xf8w-pLa1jI/AAAAAAAAEPk/Ro0mFy-8Nr8jE8BXe8ZcCjBu-PWqobRBwCLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-ginUY6jdwKE/Xf8wfpyBsuI/AAAAAAAAEPU/zuk0hike5PQzo2-cXBYPXewrVmhK1O9aACLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-zR45t5KXCBI/Xf41QWhO2fI/AAAAAAAAEOc/nf6W2kw-0u0vGkgKY54cSzlU5cc6pP9bQCLcBGAsYHQ/s1600/apple-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-EVmES08eYPQ/Xf8xYm0Xj3I/AAAAAAAAEP4/WFWHvp2XBmMqiXs53NG8rQ_AwD5WppQsQCEwYBhgL/s1600/ms-icon-150x150.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Qa-h575FtsU/Xf41H5GhKsI/AAAAAAAAEOU/ROcjUBur2WMpfuOq-DDNgrECfOq54vKOgCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TPZDppm-pDw/Xf8xn7wv8BI/AAAAAAAAEP0/RhexFb3AoaEx9aNZuhBxny7vvM9SoRxlACLcBGAsYHQ/s1600/FavTahsin.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
